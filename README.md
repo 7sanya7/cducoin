@@ -45,6 +45,8 @@ Links
 
 • Website: https://cducoin.org
 
+• Mining Pool: https://mining.cducoin.org
+
 • Explorer: https://explorer.cducoin.org
 
 • Discord: https://discord.gg/eyAvWEwnfm
