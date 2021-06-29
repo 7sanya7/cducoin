@@ -1,6 +1,6 @@
-Cducoin 
+﻿Cducoin 
 ========
-![](imgs/cducoin256.png)
+![](imgs/cducoin_official256.png)
 
 
 Specifications:
