@@ -18,7 +18,7 @@ https://cducoin.org
 
 • Algorithm:        SHA256
 
-• Block Time:       15 seconds
+• Block Time:       6 seconds
 
 • Block Reward:     6 CDU
 
