@@ -43,6 +43,8 @@ Links
 
 • Website: https://cducoin.org
 
+• Website: https://webwallet.cducoin.org
+
 • Explorer: https://explorer.cducoin.org
 
 • Discord: https://discord.gg/eyAvWEwnfm
