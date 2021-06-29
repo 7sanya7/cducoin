@@ -22,7 +22,7 @@ https://cducoin.org
 
 • Block Reward:     6 CDU
 
-• Difficulty:       18 blocks
+• Difficulty:       16 blocks
 
 • Halving:          700 mil blocks (133 years)
 
