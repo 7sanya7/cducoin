@@ -24,6 +24,8 @@ https://cducoin.org
 
 • Difficulty:       1 block
 
+• Halving:          700 mil blocks (133 years)
+
 • Ticker:           CDU
 
 • Block size:       4mb
