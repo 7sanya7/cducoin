@@ -22,7 +22,7 @@ https://cducoin.org
 
 • Block Reward:     6 CDU
 
-• Difficulty:       1 block
+• Difficulty:       18 blocks
 
 • Halving:          700 mil blocks (133 years)
 
@@ -36,7 +36,7 @@ https://cducoin.org
 
 • Max supply:       8,399,999,992
 
-• POW Confirmations:   36
+• POW Confirmations:   26
 
 
 
