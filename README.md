@@ -45,11 +45,15 @@ Links
 
 • Website: https://cducoin.org
 
-• Mining Pool: https://mining.cducoin.org
-
 • Explorer: https://explorer.cducoin.org
 
+• Paper Wallet: https://paperwallet.cducoin.org
+
+• Mining Pool: https://mining.cducoin.org
+
 • Discord: https://discord.gg/eyAvWEwnfm
+
+• Telegram: https://t.me/CducoinOfficial
 
 
 
