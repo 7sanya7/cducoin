@@ -1,6 +1,6 @@
 ﻿Cducoin 
 ========
-![](imgs/cducoin_official256.png)
+![](imgs/cdu_back.jpg)
 
 
 Specifications:
