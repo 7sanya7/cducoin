@@ -3,6 +3,12 @@
 ![](imgs/cdu_back.jpg)
 
 
+Download wallets:
+----------
+
+- Wallets available for downloads here: https://github.com/cducoin-official/cducoin/releases
+
+
 Specifications:
 ----------------------
 
