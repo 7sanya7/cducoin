@@ -6,7 +6,7 @@
 Download wallets:
 ----------
 
-- Wallets available for downloads here: https://github.com/cducoin-official/cducoin/releases
+- Wallets available for downloads here: https://github.com/cducoin-official/cducoin/releases/latest
 
 
 Specifications:
