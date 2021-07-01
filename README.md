@@ -61,7 +61,7 @@ Links
 
 • Telegram: https://t.me/CducoinOfficial
 
-• Forum: https://bitcointalk.org/index.php?topic=5346761
+• Forum: https://bitcointalk.org/index.php?topic=5346921
 
 
 
