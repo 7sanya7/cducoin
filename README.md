@@ -53,15 +53,7 @@ Links
 
 • Explorer: https://explorer.cducoin.org
 
-• Paper Wallet: https://paperwallet.cducoin.org
-
 • Mining Pool: https://mining.cducoin.org
-
-• Discord: https://discord.gg/eyAvWEwnfm
-
-• Telegram: https://t.me/CducoinOfficial
-
-• Forum: https://bitcointalk.org/index.php?topic=5346921
 
 
 
